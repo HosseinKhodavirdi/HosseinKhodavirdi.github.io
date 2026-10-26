@@ -22,7 +22,7 @@ This draft uses professional details supplied in conversation, not an independen
 Education and publications are intentionally omitted pending exact confirmation. No degree completion is assumed. To add them, supply:
 - Exact degree titles, institutions, completion dates, and current enrollment.
 - Publication titles, author lists, venues, dates, and DOI links.
-- A current public CV PDF (save as cv.pdf beside index.html).
+- The included cv.pdf is the full academic and professional CV.
 - Professional email, LinkedIn, Google Scholar, and ORCID links.
 - An optional professional portrait and research figures you have permission to publish.
 
